@@ -1,0 +1,28 @@
+name: www.friend2friendsociety.org
+favicon: null
+layout_spectrum: 0.4128014862071723
+typography_spectrum: 0.1520665674470365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5947907455265522
+  lightness: 0.5961629052180797
+  saturation: 0.8137635085731745
+  rhythmicContrast: 0.8422718935180455
+purpose: []
